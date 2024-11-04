@@ -1,0 +1,2 @@
+tracker.set_budget('food', 300)
+tracker.check_budget('food')
